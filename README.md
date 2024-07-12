@@ -59,6 +59,9 @@ ARNavigation is an augmented reality application that allows users to navigate t
 3. Interact with the AR model to navigate through the building.
 4. Use the on-screen controls to get directions to different parts of the building.
 
+## Blueprint Map
+![Blueprint_Map](https://github.com/user-attachments/assets/f0775167-3e95-4d7a-a4bf-3ed566f32005)
+
 
 ## Technologies Used
 
